@@ -16,7 +16,7 @@ Welcome to the AeroGriif project! This project involves a drone that conducts pl
 
 
 
-![Plant Analysis Animation](./Display%20media/giphy (1).gif)
+![Plant Analysis Animation](./Display%20media/giphy%20(1).gif)
 
 ## Installation
 
