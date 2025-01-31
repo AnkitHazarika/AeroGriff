@@ -17,7 +17,11 @@ Welcome to the Wildfire Detection Research !
 ## Dataset
 
 We utilized the [D-Fire dataset](https://github.com/gaiasd/DFireDataset), a curated collection of 21,000 labeled images, each annotated in YOLO format. The dataset focuses on fire and smoke instances, while also encompassing diverse visual cues, including non-fire images that resemble fire-like patterns.
-![Fire view 2](../../Display%20media/forest%20fire.gif)
+<p>
+  <img src="https://raw.githubusercontent.com/AnkitHazarika/AeroGriff/main/Display20%media/forest20%fire" width="600">
+</p>
+
+
 <div align="center">
   D-Fire dataset examples
 </div>
