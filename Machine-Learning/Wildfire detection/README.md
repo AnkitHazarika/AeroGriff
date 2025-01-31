@@ -1,9 +1,7 @@
 # Wildfire Detection
 Welcome to the Wildfire Detection Research ! 
 
-<p align="center">
-  <img src="src/intro-gif.gif" alt="gif" width = 800>
-</p>
+![Fire view 1](./Display%20media/cover%20image.png)
 
 ## Highlights:
 
