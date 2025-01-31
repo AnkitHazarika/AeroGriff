@@ -1,0 +1,7 @@
+names:
+  0: smoke
+  1: fire
+path: C:\Ankit\SERIOUS ARTICLES\VIT\EPICS PROJECT\machineLearning-main\machineLearning-main\wildfire-detection-main\D-Fire
+test: C:\Ankit\SERIOUS ARTICLES\VIT\EPICS PROJECT\machineLearning-main\machineLearning-main\wildfire-detection-main\D-Fire\test\images
+train: C:\Ankit\SERIOUS ARTICLES\VIT\EPICS PROJECT\machineLearning-main\machineLearning-main\wildfire-detection-main\D-Fire\train\images
+val: C:\Ankit\SERIOUS ARTICLES\VIT\EPICS PROJECT\machineLearning-main\machineLearning-main\wildfire-detection-main\D-Fire\val\images
